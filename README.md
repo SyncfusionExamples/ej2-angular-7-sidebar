@@ -1,6 +1,5 @@
 # Angular7App
 
-**Repository Description**  
 This repository contains an Angular application generated using Angular CLI version 7.0.5. The project provides a standard Angular setup that can be extended with additional UI components and navigation features.
 
 This sample can be used as a base to integrate UI layout components such as side navigation panels using Angular.
